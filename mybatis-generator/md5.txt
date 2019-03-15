@@ -1,0 +1,1 @@
+99056385a25010f6a24b5b290231d191 *mybatis-generator-core-1.3.7.zip
