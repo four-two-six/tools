@@ -1,6 +1,0 @@
-This is a git test!
-again!
-again!
-4
-5
-6
